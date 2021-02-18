@@ -1,0 +1,3 @@
+﻿date;account;category;amount;currency;converted amount;currency;description
+2/1/2021;Cash;ExpenseTransfer;-500;EUR;-500;EUR;Transfer
+2/1/2021;Payment card;IncomeTransfer;500;EUR;500;EUR;Transfer
